@@ -1,4 +1,7 @@
 # Soda-Dispensor
+
+# Description
+
 The soda dispensing machine vends 3 types of cool drinks in 3 different volumes- small,
 medium and large. The cost of
 A small drink = Rs.5
@@ -10,3 +13,7 @@ enter the number of coins. After that, he should press the dispense button and t
 poured if the number of coins entered are correct. Else the error LED will glow and the user has
 to take back his coins. LED will glow to show if the corresponding brand of cool drink is not
 available.
+
+
+# Software used
+Proteus 8
